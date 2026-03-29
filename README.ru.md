@@ -1,7 +1,7 @@
 # The First Crack: On Difference Without Ground
 
 **Автор:** Primer  
-**Дата:** 2026-03-29  
+**Дата:** 2026-03-29  **DOI:** [10.5281/zenodo.19310951](https://doi.org/10.5281/zenodo.19310951)   
 **Репозиторий:** https://github.com/primerObjecte/first-crack
 
 ## Аннотация
